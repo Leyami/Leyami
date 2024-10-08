@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leyami
 - 👀 I’m interested in game programming, web programming, desktop applications.
 - 🌱 I’m currently learning Unity and PHP
-- 📫 How to reach me nasatrky@gmail.com/yigit.ari.2812@gmail.com
+- 📫 How to reach me nasatrky@gmail.com
 
 <!---
 Leyami/Leyami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
